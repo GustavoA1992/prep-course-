@@ -1,2 +1,1 @@
-# prep-course-
-este es un repositorio de prueba
+el repositorio madre
